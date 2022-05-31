@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, Tom Kruba here 👋
+
+#### Interested in technologies since childhood, i then studied in this domain at highschool. During school days i discovered web development, which i really enjoyed, and after decided to pursue this.
+
+-------
+
+### Languages and Tools:
+
+#### 
 
 <!--
 **tkruba/tkruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
