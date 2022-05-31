@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-#### 
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor) ![CSS3](https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) ![React](https://icongr.am/devicon/react-original.svg?size=32&color=currentColor) ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor)
 
 <!--
 **tkruba/tkruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
