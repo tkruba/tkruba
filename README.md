@@ -1,16 +1,15 @@
 ### Hi, Tom Kruba here 👋
 
-#### Interested in technologies since childhood, i then studied in this domain at highschool. During school days i discovered web development, which i really enjoyed, and after decided to pursue this.
+#### Interested in technologies since childhood, i then studied in this domain at highschool. During school days i discovered web development, which i really enjoyed, and hence decided to pursue this.
 
 -------
 
 ### Languages and Tools:
-
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor) ![CSS3](https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) ![React](https://icongr.am/devicon/react-original.svg?size=32&color=currentColor) ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor) ![CSS3](https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) ![React](https://icongr.am/devicon/react-original.svg?size=32&color=currentColor) ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor) ![Mongodb](https://icongr.am/devicon/mongodb-original.svg?size=32&color=currentColor) ![mysql](https://icongr.am/devicon/mysql-original.svg?size=32&color=currentColor) ![sass](https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor) 
 
 -------
 
-Book → https://tkruba.github.io
+Book → http://www.tkruba.fr
 <!--
 **tkruba/tkruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
