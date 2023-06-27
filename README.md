@@ -5,7 +5,7 @@
 -------
 
 ### Languages and Tools:
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor) ![CSS3](https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) ![React](https://icongr.am/devicon/react-original.svg?size=32&color=currentColor) ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor) ![Mongodb](https://icongr.am/devicon/mongodb-original.svg?size=32&color=currentColor) ![mysql](https://icongr.am/devicon/mysql-original.svg?size=32&color=currentColor) ![sass](https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor) 
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor) ![CSS3](https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) ![React](https://icongr.am/devicon/react-original.svg?size=32&color=currentColor) ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor) ![Mongodb](https://icongr.am/devicon/mongodb-original.svg?size=32&color=currentColor) ![mysql](https://icongr.am/devicon/mysql-original.svg?size=32&color=currentColor) ![sass](https://icongr.am/devicon/sass-original.svg?size=32&color=currentColor) ![php](https://icongr.am/devicon/php-original.svg?size=32&color=currentColor) ![symfony](https://icongr.am/devicon/symfony-original.svg?size=32&color=currentColor)
 
 -------
 
