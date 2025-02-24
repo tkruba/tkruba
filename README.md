@@ -9,7 +9,7 @@
 
 -------
 
-Book → http://www.tkruba.fr
+Book → https://www.tkruba.fr
 <!--
 **tkruba/tkruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
